@@ -21,8 +21,7 @@ Some changes do not require an RFC:
 
    - Rephrasing, reorganizing or refactoring
    - Changing the default set of panels
-   - Additions that strictly improve objective, numerical quality
-criteria (speedup, better browser support)
+   - Additions that strictly improve objective, numerical quality criteria (speedup, better browser support)
 
 If you submit a pull request to implement a substantial change without going through the RFC process, it may be closed with a polite request to submit an RFC first.
 
@@ -55,7 +54,7 @@ Once an RFC becomes active then authors may implement it and submit the feature 
 
 Furthermore, the fact that a given RFC has been accepted and is 'active' implies nothing about what priority is assigned to its implementation, nor whether anybody is currently working on it.
 
-Modifications to active RFC's can be done in followup PR's. We strive to write each RFC in a manner that it will reflect the final design of the change; but the nature of the process means that we cannot expect every merged RFC to actually reflect what the end result will be at the time of the next major release; therefore we try to keep each RFC
+Modifications to active RFCs can be done in followup PRs. We strive to write each RFC in a manner that it will reflect the final design of the change; but the nature of the process means that we cannot expect every merged RFC to actually reflect what the end result will be at the time of the next major release; therefore we try to keep each RFC
 document somewhat in sync with the change as planned, tracking such changes via followup pull requests to the document.
 
 ## Implementing an RFC
@@ -64,7 +63,7 @@ The author of an RFC is not obligated to implement it. Of course, the RFC author
 
 If you are interested in working on the implementation for an 'active' RFC, but cannot determine if someone else is already working on it, feel free to ask (e.g. by leaving a comment on the associated issue).
 
-## Reviewing RFC's
+## Reviewing RFCs
 
 Each week the [DevTools core team] will attempt to review some set of open RFC pull requests.
 
