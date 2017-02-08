@@ -43,8 +43,8 @@ In short, to make a major change to DevTools, one must first get the RFC merged 
 comment and tag on the RFC's pull request. Furthermore, an email will be sent out the to [DevTools Developer List][dev-developer-tools] to indicate to the broader community that this has entered the final phase.
 *   An RFC can be modified based upon feedback from the [DevTools core team][] and community. Significant modifications may trigger a new final comment period.
 *   An RFC may be rejected by the [DevTools core team][] after public discussion has settled and comments have been made summarizing the rationale for rejection. A member of the [DevTools core team][] should then close the RFC's associated pull request.
-*   An RFC may be accepted at the close of its final comment period. A [DevTools core team][] member will merge the RFC's associated pull request, at which point the RFC will
-become 'active'.
+*   An RFC may be accepted at the close of its final comment period. A [DevTools core team][] member will merge the RFC's associated pull request, at which point the RFC will become 'active'.
+*   During a merge an RFC will become numbered and the number will be that of the PR. So PR #5 will have use the `0005-jsx.md` filename eventually.
 
 ## The RFC life-cycle
 
