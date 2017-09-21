@@ -1,8 +1,0 @@
-{
-  "name": "rfcs",
-  "version": "1.0.0",
-  "description": "RFCs for Firefox DevTools",
-  "repository": "git@github.com:devtools-html/rfcs.git",
-  "author": "Bryan Clark <clarkbw@gmail.com>",
-  "license": "ISC"
-}
