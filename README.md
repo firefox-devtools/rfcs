@@ -12,7 +12,7 @@ The list of RFCs currently under discussion can be found at [Active RFCs][].
 
 We aim to discuss specific and actionable changes, i.e. we aim to answer questions about work you're doing or about to do either on the DevTools codebase or on something that *interacts* with DevTools. For example:
 
-* you are about to make a big change that affects a number of panels and would like feedback on the solution you came up with.
+* you're working on a DevTools bug, and you believe the fix involves making a change that affects a number of panels or doing something that is very different from the existing conventions, and you would like feedback on the solution you came up with.
 * you are about to make a breaking change on an essential API we interact with, and would like to discuss it and get feedback from us beforehand.
 
 This distinction can be unclear at times, but we will try our best to discuss proposals, taking into account our own time limitations.
@@ -28,9 +28,9 @@ This distinction can be unclear at times, but we will try our best to discuss pr
 
 ## Reviewing RFCs
 
-Each week the [DevTools RFC team][] will attempt to review open RFC issues. Reviewed RFCs will also be mentioned in the weekly DevTools team meeting (see archives for [devtools-weekly-meetings][]).
+Each week the [DevTools RFC team][] will mention the open RFCs during the DevTools meeting, to bring relevant peers' attention to them (see archives for [devtools-weekly-meetings][]).
 
-The team will send an email a few days prior to the review meeting to [dev-developer-tools][] to announce which RFCs are likely to be reviewed, and encourage peers to comment if needed.
+The team will send an email a few days prior to the review meeting to [dev-developer-tools][] to announce which RFCs are going to be reviewed, and encourage peers to comment if needed.
 
 ## Closing RFCs
 
