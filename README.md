@@ -48,11 +48,11 @@ You can have a look at the following links to get an idea of which RFCs are in e
 * [Rejected RFCs][]
 * [Completed RFCs][]
 
-[DevTools RFC team]: https://github.com/orgs/devtools-html/teams/devtools-rfc/members
-[Active RFCs]: https://github.com/devtools-html/rfcs/issues?q=is%3Aopen+is%3Aissue
-[Accepted RFCs]: https://github.com/devtools-html/rfcs/issues?q=is%3Aissue+label%3Aaccepted
-[Rejected RFCs]: https://github.com/devtools-html/rfcs/issues?q=is%3Aissue+label%3Arejected
-[Completed RFCs]: https://github.com/devtools-html/rfcs/issues?q=is%3Aclosed+is%3Aissue
+[DevTools RFC team]: https://github.com/orgs/firefox-devtools/teams/devtools-rfc/members
+[Active RFCs]: https://github.com/firefox-devtools/rfcs/issues?q=is%3Aopen+is%3Aissue
+[Accepted RFCs]: https://github.com/firefox-devtools/rfcs/issues?q=is%3Aissue+label%3Aaccepted
+[Rejected RFCs]: https://github.com/firefox-devtools/rfcs/issues?q=is%3Aissue+label%3Arejected
+[Completed RFCs]: https://github.com/firefox-devtools/rfcs/issues?q=is%3Aclosed+is%3Aissue
 [dev-developer-tools]: https://lists.mozilla.org/listinfo/dev-developer-tools
 [devtools-weekly-meetings]: https://docs.google.com/document/d/1Gio9ypuBXG9YECMay2Fk0rEjrP16AF_ZR4UIJ7fic9g/edit?usp=sharing
 [Slack]: https://devtools-html-slack.herokuapp.com/
